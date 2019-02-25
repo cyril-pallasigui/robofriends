@@ -1,7 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-  "private": true,
+  "private": true,  
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
@@ -26,5 +26,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "homepage": "https://cyrilpallasigui.com/portfolio/robofriends"
 }
